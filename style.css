@@ -1,0 +1,75 @@
+/****Global Styles ****/
+.notebook {
+    
+    background-color: white;
+}
+.rose {
+  background-image: url(rose.png);
+}
+
+div {
+  display: block;
+}
+h1 { 
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+.fam {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.famlov {
+    background-color: #1a0e70;
+    color: white;
+    opacity: 0.5;
+    
+}
+.family {
+    background-image: url(LP-bg-1.jpg);
+}
+.christ {
+     display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.god {
+    background-image: url(heaven.jpg)
+}
+.navbar {
+    z-index: 10000;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    
+}
+.nav {
+    background-color: pink;
+    font-weight: bold;
+    font-size: 30;
+}
+.lovelet {
+    background-image: url(heart.png);
+}
+.lav {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.lavlet {
+    background-color: crimson;
+}
